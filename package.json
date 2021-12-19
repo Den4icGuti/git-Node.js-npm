@@ -1,0 +1,27 @@
+{
+  "name": "git-node.js-npm",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+   "dev":"parcel src/index.html",
+    "build":"parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Den4icGuti/git-Node.js-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Den4icGuti/git-Node.js-npm/issues"
+  },
+  "homepage": "https://github.com/Den4icGuti/git-Node.js-npm#readme",
+  "dependencies": {
+    "joi": "^17.5.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
