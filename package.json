@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/Den4icGuti/git-Node.js-npm#readme",
   "dependencies": {
+    "joi": "^17.5.0",
     "shortid": "^2.2.16"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
